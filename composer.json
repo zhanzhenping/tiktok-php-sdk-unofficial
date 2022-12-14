@@ -1,0 +1,28 @@
+{
+  "name": "stallzhan/tiktok-php-sdk-unofficial",
+  "description": "PHP login kit implemented according to tiktok document",
+  "autoload": {
+    "psr-4": {
+      "Tiktok\\": "src/"
+    }
+  },
+  "autoload-dev":{
+    "psr-4":{
+      "Tiktok\\":"src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "stallzhan",
+      "email": "stallzhan@gmail.com",
+      "homepage":"https://github.com/zhanzhenping"
+    }
+  ],
+  "license": "MIT",
+  "homepage":"https://github.com/zhanzhenping",
+  "require": {
+    "php":">=5.6.0",
+    "guzzlehttp/guzzle": "~5.3.3||~6.0||~7.0",
+    "ext-json": "*"
+  }
+}
