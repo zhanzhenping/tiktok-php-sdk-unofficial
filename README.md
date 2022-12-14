@@ -24,7 +24,7 @@ PHP login kit implemented according to tiktok document
 ### Installation
 
 ```sh
-composer require stallzhan/tiktok-php-sdk
+composer require stallzhan/tiktok-php-sdk-unofficial
 ```
 
 ### Basic Example
