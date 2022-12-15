@@ -1,6 +1,6 @@
 <?php
 
-namespace Tiktok;
+namespace TiktokUnofficial;
 
 use GuzzleHttp\Client as GuzzleHttpClient;
 use GuzzleHttp\ClientInterface;

@@ -5,7 +5,7 @@
  * Date 2022/12/14   17:18
  */
 
-namespace Tiktok\Handle;
+namespace TiktokUnofficial\Handle;
 
 use Exception;
 use GuzzleHttp\Psr7\Query;

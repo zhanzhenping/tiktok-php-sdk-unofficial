@@ -5,9 +5,9 @@
  * Date 2022/12/14   17:22
  */
 
-namespace Tiktok;
+namespace TiktokUnofficial;
 
-use Tiktok\Handle\Userinfo;
+use TiktokUnofficial\Handle\Userinfo;
 
 class Service
 {

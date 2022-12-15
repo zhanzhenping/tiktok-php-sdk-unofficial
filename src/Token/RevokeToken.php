@@ -5,14 +5,14 @@
  * Date 2022/12/14   16:45
  */
 
-namespace Tiktok\Token;
+namespace TiktokUnofficial\Token;
 
 use Exception;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Exception\GuzzleException;
 use GuzzleHttp\Psr7\Request;
 use GuzzleHttp\Psr7;
-use Tiktok\Client;
+use TiktokUnofficial\Client;
 
 class RevokeToken
 {

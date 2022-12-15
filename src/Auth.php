@@ -1,6 +1,6 @@
 <?php
 
-namespace Tiktok;
+namespace TiktokUnofficial;
 
 use Exception;
 use GuzzleHttp\Client as GuzzleHttpClient;
